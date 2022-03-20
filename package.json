@@ -1,7 +1,12 @@
 {
-  "name": "root",
+  "name": "@mrgb/root",
+  "version": "1.0.0",
+  "description": "Lerna monorepos for Node applications",
   "private": true,
   "devDependencies": {
     "lerna": "^4.0.0"
-  }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
